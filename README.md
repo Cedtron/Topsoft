@@ -1,6 +1,6 @@
 # Topsoft website
 
-Tpsoft website uses html,css which power by boostrap5,Jquery on the front end,
+Topsoft website uses html,css which power by boostrap5,Jquery on the front end,
 and the backend is power by MySqli and PHP.
 
 NB.To sign in you must use the employees names.
