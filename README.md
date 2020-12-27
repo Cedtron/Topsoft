@@ -3,7 +3,6 @@
 Tpsoft website uses html,css which power by boostrap5,Jquery on the front end,
 and the backend is power by MySqli and PHP.
 
-![Preview](https://github.com/jonufele/WaterCooler-Chat/blob/master/preview.jpg)
 NB.To sign in you must use the employees names.
 To enjoy some features
 
