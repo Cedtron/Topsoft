@@ -73,7 +73,7 @@ To enjoy some features
 In the admin plane aka dashboard when inputing data inthe designation form ,in the name input it must be the excatly name you used to input in employees form
 
 
-## Donations
+## Developed
 This is develop by Ssegirinya Cedric
 Tel: 0705465643 or 0772728459
 
